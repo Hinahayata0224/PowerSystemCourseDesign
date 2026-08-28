@@ -28,4 +28,4 @@ Power System/
 | `C2task56_shortcircuit_node6_ode45.m` | 节点 6 短路（ode45） |
 | `C2task7_*.swi` | PSD-BPA 故障/短路稳定文件 |
 
-> archive/ 为过程版本归档，非最终交付；`*_tj.m` 为交付给其他同学的数据版本，未保留。
+> archive/ 为过程版本归档，非最终交付。
