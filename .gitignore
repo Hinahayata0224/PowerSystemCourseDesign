@@ -1,0 +1,17 @@
+# Simulink / MATLAB 缓存
+slprj/
+*.slxc
+
+# PSD-BPA DSP 工程中间产物（可重新生成）
+archive/DSP/BLFSIM
+archive/DSP/PLTDATA
+archive/DSP/SWIDATA
+archive/DSP/CIDYDAT_E
+archive/DSP/TMP-*
+archive/DSP/*.rpt
+archive/DSP/*.faplog.txt
+archive/DSP/PFSET.ini
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
